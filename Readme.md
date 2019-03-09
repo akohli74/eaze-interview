@@ -1,4 +1,4 @@
-***Backend _.Net_ Interview Coding Exercise***
+***Backend _.Net_ Coding Exercise***
 
 > Using the 4.5 .Net Solution provided, build a solution to solve the problem.
 
@@ -15,7 +15,7 @@
     * Store the result of the job so it can be retrieved later by ID.
 
 **Solution:**
-  1. Interview.Green.Web.Scraper your endpoint during this exercise.
+  1. Green.Web.Scraper your endpoint during this exercise.
 
 **Hints:**
   1. Look at using Quartz for scheduling.
